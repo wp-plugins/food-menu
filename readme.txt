@@ -4,7 +4,7 @@ Donate link:
 Tags: food menu, restaurant menu
 Requires at least: 3.1
 Tested up to: 3.1
-Stable tag: 1.3
+Stable tag: 1.4
 
 Create and manage food menus in Wordpress.
 
